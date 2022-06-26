@@ -1,6 +1,6 @@
 # Level-1   15 Days Challenge
 
-# Day 1
+# # Day 1
 
 1 Running Sum of 1d Array
 
