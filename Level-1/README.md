@@ -12,10 +12,10 @@ problem link : https://leetcode.com/problems/find-pivot-index/
 
 # # Day 2
 
-# Is Subsequence
+1 Is Subsequence
 
 problem link : https://leetcode.com/problems/is-subsequence/
 
-# Isomorphic Strings
+2 Isomorphic Strings
 
 problem link : https://leetcode.com/problems/isomorphic-strings/
