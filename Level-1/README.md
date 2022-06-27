@@ -9,3 +9,13 @@ problem link : https://leetcode.com/problems/running-sum-of-1d-array/
 2 Find Pivot index
 
 problem link : https://leetcode.com/problems/find-pivot-index/
+
+# Day 2
+
+# Is Subsequence
+
+problem link : https://leetcode.com/problems/is-subsequence/
+
+# Isomorphic Strings
+
+problem link : https://leetcode.com/problems/isomorphic-strings/
