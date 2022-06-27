@@ -10,7 +10,7 @@ problem link : https://leetcode.com/problems/running-sum-of-1d-array/
 
 problem link : https://leetcode.com/problems/find-pivot-index/
 
-# Day 2
+# # Day 2
 
 # Is Subsequence
 
