@@ -22,10 +22,10 @@
   
 # #  Day 3
  
- 1. _Merge Two Sorted Lists
+ 1. __Merge Two Sorted Lists
  
  problem link : https://leetcode.com/problems/merge-two-sorted-lists/
  
- 2. _Reverse Linked LIst
+ 2. __Reverse Linked LIst
  
  problem link : https://leetcode.com/problems/reverse-linked-list/
