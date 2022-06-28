@@ -1,9 +1,7 @@
 # Level-1  &nbsp; &nbsp;  15 Days Challenge
 
 ## # Day 1
-&nbsp; &nbsp; &nbsp; 1. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/){:target="_blank"}
-
-<a href="http://stackoverflow.com" target="_blank">Go</a>
+&nbsp; &nbsp; &nbsp; 1. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 
 
 &nbsp; &nbsp; &nbsp; 2. [Find Pivot index](https://leetcode.com/problems/find-pivot-index/)
