@@ -26,6 +26,6 @@
  
  problem link : https://leetcode.com/problems/merge-two-sorted-lists/
  
- 2.Reverse Linked LIst
+ 2. Reverse Linked LIst
  
  problem link : https://leetcode.com/problems/reverse-linked-list/
