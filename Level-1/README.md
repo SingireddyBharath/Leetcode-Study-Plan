@@ -1,35 +1,22 @@
-# Level-1   15 Days Challenge
+# Level-1  &nbsp; &nbsp;  15 Days Challenge
 
 ## # Day 1
+&nbsp; &nbsp; &nbsp; 1. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/){:target="_blank"}
 
-1. Running Sum of 1d Array
+<a href="http://stackoverflow.com" target="_blank">Go</a>
 
-  problem link : https://leetcode.com/problems/running-sum-of-1d-array/
 
-2. Find Pivot index
-
-  problem link : https://leetcode.com/problems/find-pivot-index/
+&nbsp; &nbsp; &nbsp; 2. [Find Pivot index](https://leetcode.com/problems/find-pivot-index/)
 
 ## # Day 2
 
 
-1. Is Subsequence
+&nbsp; &nbsp; &nbsp; 1.  [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
-
-  problem link : https://leetcode.com/problems/is-subsequence/
-
-2. Isomorphic Strings
-
-  problem link : https://leetcode.com/problems/isomorphic-strings/
+&nbsp; &nbsp; &nbsp; 2.  [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
   
-## #  Day 3
+##  # Day 3
 
-**Merge Two Sorted Lists**
+&nbsp; &nbsp; &nbsp;  1. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
  
- problem link : https://leetcode.com/problems/merge-two-sorted-lists/
- 
- **Reverse Linked LIst**
- 
-  <p style='color:red'>This is some red text.</p>
- 
- problem link : https://leetcode.com/problems/reverse-linked-list/
+ &nbsp; &nbsp; &nbsp; 2. [Reverse Linked LIst](https://leetcode.com/problems/reverse-linked-list/)
