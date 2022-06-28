@@ -1,6 +1,6 @@
 # Level-1   15 Days Challenge
 
-# # Day 1
+## # Day 1
 
 1. Running Sum of 1d Array
 
@@ -10,9 +10,11 @@
 
   problem link : https://leetcode.com/problems/find-pivot-index/
 
-# # Day 2
+## # Day 2
+
 
 1. Is Subsequence
+
 
   problem link : https://leetcode.com/problems/is-subsequence/
 
@@ -20,13 +22,14 @@
 
   problem link : https://leetcode.com/problems/isomorphic-strings/
   
-# #  Day 3
+## #  Day 3
 
 **Merge Two Sorted Lists**
  
  problem link : https://leetcode.com/problems/merge-two-sorted-lists/
  
  **Reverse Linked LIst**
- <p style='color:red'>This is some red text.</p>
+ 
+  <p style='color:red'>This is some red text.</p>
  
  problem link : https://leetcode.com/problems/reverse-linked-list/
