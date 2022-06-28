@@ -21,11 +21,10 @@
   problem link : https://leetcode.com/problems/isomorphic-strings/
   
 # #  Day 3
- 
- 1.  __Merge Two Sorted Lists
+__Merge Two Sorted Lists
  
  problem link : https://leetcode.com/problems/merge-two-sorted-lists/
  
- 2.   __Reverse Linked LIst
+ __Reverse Linked LIst
  
  problem link : https://leetcode.com/problems/reverse-linked-list/
