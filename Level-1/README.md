@@ -19,3 +19,13 @@
 2. Isomorphic Strings
 
   problem link : https://leetcode.com/problems/isomorphic-strings/
+  
+ # #  Day 3
+ 
+ 1. Merge Two Sorted Lists
+ 
+ problem link : https://leetcode.com/problems/merge-two-sorted-lists/
+ 
+ 2.Reverse Linked LIst
+ 
+ problem link : https://leetcode.com/problems/reverse-linked-list/
