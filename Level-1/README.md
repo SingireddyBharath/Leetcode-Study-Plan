@@ -18,3 +18,9 @@
 &nbsp; &nbsp; &nbsp;  1. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
  
  &nbsp; &nbsp; &nbsp; 2. [Reverse Linked LIst](https://leetcode.com/problems/reverse-linked-list/)
+ 
+ ##  # Day 4
+
+&nbsp; &nbsp; &nbsp;  1. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+ 
+ &nbsp; &nbsp; &nbsp; 2. [Reverse Linked LIst](https://leetcode.com/problems/reverse-linked-list/)
