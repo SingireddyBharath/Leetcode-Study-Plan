@@ -30,7 +30,7 @@
 
 ##  # Day 5   &nbsp; [ Greedy ]
 
-&nbsp; &nbsp; &nbsp;  1. [ Best Time to Buy and Sell Stock ]https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+&nbsp; &nbsp; &nbsp;  1. [ Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
  
  &nbsp; &nbsp; &nbsp; 2. [ Longest Palindrome ](https://leetcode.com/problems/longest-palindrome/)
 
